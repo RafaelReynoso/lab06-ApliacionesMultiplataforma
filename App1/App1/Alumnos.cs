@@ -8,7 +8,7 @@ namespace App1
     {
         public string Nombre { get; set; }
         public string Apellido { get; set; }
-        public string DisplayName
+        public string FullName
         {
             get
             {
